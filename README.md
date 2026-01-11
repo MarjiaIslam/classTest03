@@ -225,5 +225,4 @@ Run the application and capture the console output showing parallel execution wi
 
 ---
 
-**Author:** Advanced OOP Student  
-**Date:** January 2026
+
