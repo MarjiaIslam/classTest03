@@ -1,5 +1,3 @@
-# Async & Thread Pools
-
 ## 🎯 Overview
 
 This project demonstrates how to implement background tasks in Spring Boot using a custom thread pool to handle concurrent operations efficiently. It showcases asynchronous programming with configured thread pool management.
